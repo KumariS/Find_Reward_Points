@@ -1,0 +1,16 @@
+{
+  "HomeTitle": "Retailers Reward Program",
+  "TransactionsTitle": {
+    "customerId": "Customer ID",
+    "transactionId": "Transaction ID",
+    "date": "Transaction Date",
+    "amount": "Transaction Amount",
+    "pointsEarned": "Points Earned"
+  },
+  "CustomerTransactionByMonthTitle":{
+    "customerId": "Customer ID",
+    "month": "Transaction Month",
+    "totalAmount": "Total Transaction Amount",
+    "totalpointsEarned": "Total Points Earned"
+  }
+}
